@@ -1,0 +1,662 @@
+Rotating clockwise by angle 0.01 
+
+n = 21, r = 1.02321
+(6.26512e-17, 1.02321) has gradient (6.66134e-16, -1.13743e-06)
+Odd area: 6.54943
+Odd area after rotation: 6.54913
+
+n = 21, r = 1.05256
+(6.44484e-17, 1.05256) has gradient (5.38458e-15, 1.15853e-06)
+Odd area: 6.38438
+Odd area after rotation: 6.38455
+STOP, the diff is 0.000174999
+
+
+n = 21, r = 1.14612
+(7.01774e-17, 1.14612) has gradient (4.996e-15, 6.66668e-07)
+Odd area: 7.74895
+Odd area after rotation: 7.7478
+
+n = 21, r = 1.23541
+(7.56445e-17, 1.23541) has gradient (4.44089e-16, -6.54722e-07)
+Odd area: 6.96002
+Odd area after rotation: 6.96053
+STOP, the diff is 0.000500202
+
+
+n = 21, r = 1.4515
+(8.88758e-17, 1.4515) has gradient (4.21885e-15, -5.15413e-07)
+Odd area: 10.5461
+Odd area after rotation: 10.5447
+
+n = 21, r = 1.67572
+(1.02605e-16, 1.67572) has gradient (3.33067e-15, -2.6006e-07)
+Odd area: 8.46775
+Odd area after rotation: 8.46852
+STOP, the diff is 0.000775337
+
+
+n = 21, r = 2.26617
+(1.38758e-16, 2.26617) has gradient (1.77636e-15, -4.45659e-07)
+Odd area: 18.0718
+Odd area after rotation: 18.0679
+
+n = 21, r = 3.0276
+(1.85381e-16, 3.0276) has gradient (-7.10543e-15, 3.84214e-08)
+Odd area: 12.6756
+Odd area after rotation: 12.6776
+STOP, the diff is 0.00202465
+
+
+n = 23, r = 1.05691
+(6.47152e-17, 1.05691) has gradient (6.10623e-16, -2.15391e-06)
+Odd area: 6.8837
+Odd area after rotation: 6.88375
+STOP, the diff is 5.00679e-05
+
+
+n = 23, r = 1.10145
+(6.74423e-17, 1.10145) has gradient (8.88178e-16, -9.58951e-07)
+Odd area: 6.5404
+Odd area after rotation: 6.5409
+STOP, the diff is 0.000500202
+
+
+n = 23, r = 1.21349
+(7.43022e-17, 1.21349) has gradient (2.33147e-15, -1.27334e-06)
+Odd area: 8.33922
+Odd area after rotation: 8.33862
+
+n = 23, r = 1.32049
+(8.08537e-17, 1.32049) has gradient (1.55431e-15, -5.11717e-08)
+Odd area: 7.2936
+Odd area after rotation: 7.29353
+
+n = 23, r = 1.56334
+(9.5724e-17, 1.56334) has gradient (5.9952e-15, 8.40143e-07)
+Odd area: 11.4975
+Odd area after rotation: 11.4959
+
+n = 23, r = 1.81649
+(1.11224e-16, 1.81649) has gradient (-4.44089e-15, -1.88197e-07)
+Odd area: 9.0429
+Odd area after rotation: 9.04432
+STOP, the diff is 0.00142479
+
+
+n = 23, r = 2.46745
+(1.51083e-16, 2.46745) has gradient (-5.32907e-15, -7.1446e-07)
+Odd area: 19.7925
+Odd area after rotation: 19.7872
+
+n = 23, r = 3.30894
+(2.02608e-16, 3.30894) has gradient (8.88178e-16, 1.18995e-07)
+Odd area: 13.7438
+Odd area after rotation: 13.7465
+STOP, the diff is 0.00272465
+
+
+n = 25, r = 1.01625
+(6.2225e-17, 1.01625) has gradient (1.94289e-16, -3.04943e-06)
+Odd area: 6.4675
+Odd area after rotation: 6.46728
+
+n = 25, r = 1.03653
+(6.3467e-17, 1.03653) has gradient (-2.42861e-15, 4.88556e-08)
+Odd area: 6.35477
+Odd area after rotation: 6.35495
+STOP, the diff is 0.000174999
+
+
+n = 25, r = 1.09919
+(6.73039e-17, 1.09919) has gradient (-5.55112e-17, -2.81315e-06)
+Odd area: 7.27128
+Odd area after rotation: 7.27122
+
+n = 25, r = 1.15678
+(7.08299e-17, 1.15678) has gradient (1.33227e-15, -1.05603e-06)
+Odd area: 6.7396
+Odd area after rotation: 6.73965
+STOP, the diff is 4.95911e-05
+
+
+n = 25, r = 1.28548
+(7.87106e-17, 1.28548) has gradient (5.55112e-16, 1.76132e-07)
+Odd area: 8.95998
+Odd area after rotation: 8.95953
+
+n = 25, r = 1.40891
+(8.62681e-17, 1.40891) has gradient (-3.9968e-15, -5.89627e-07)
+Odd area: 7.65233
+Odd area after rotation: 7.65293
+STOP, the diff is 0.000599861
+
+
+n = 25, r = 1.67766
+(1.02724e-16, 1.67766) has gradient (6.43929e-15, 1.10389e-07)
+Odd area: 12.4509
+Odd area after rotation: 12.4494
+
+n = 25, r = 1.9589
+(1.19944e-16, 1.9589) has gradient (-2.22045e-16, -3.24107e-08)
+Odd area: 9.6364
+Odd area after rotation: 9.63713
+STOP, the diff is 0.000724792
+
+
+n = 25, r = 2.66993
+(1.63481e-16, 2.66993) has gradient (4.88498e-15, -5.82967e-07)
+Odd area: 21.5072
+Odd area after rotation: 21.5016
+
+n = 25, r = 3.59083
+(2.19868e-16, 3.59083) has gradient (-1.24345e-14, 5.89965e-08)
+Odd area: 14.824
+Odd area after rotation: 14.8277
+STOP, the diff is 0.00360012
+
+
+n = 27, r = 1.04068
+(6.37211e-17, 1.04068) has gradient (3.94129e-15, -2.42237e-06)
+Odd area: 6.7125
+Odd area after rotation: 6.71235
+
+n = 27, r = 1.07184
+(6.56292e-17, 1.07184) has gradient (-4.16334e-16, -5.97692e-07)
+Odd area: 6.46642
+Odd area after rotation: 6.4669
+STOP, the diff is 0.00047493
+
+
+n = 27, r = 1.14726
+(7.02468e-17, 1.14726) has gradient (6.32827e-15, 2.21867e-06)
+Odd area: 7.69925
+Odd area after rotation: 7.69905
+
+n = 27, r = 1.2165
+(7.44867e-17, 1.2165) has gradient (1.88738e-15, -6.94981e-07)
+Odd area: 6.9749
+Odd area after rotation: 6.97547
+STOP, the diff is 0.000575066
+
+
+n = 27, r = 1.36077
+(8.33203e-17, 1.36077) has gradient (7.54952e-15, 4.86765e-07)
+Odd area: 9.59163
+Odd area after rotation: 9.5905
+
+n = 27, r = 1.49976
+(9.18305e-17, 1.49976) has gradient (3.55271e-15, 4.01436e-07)
+Odd area: 8.03445
+Odd area after rotation: 8.0349
+STOP, the diff is 0.000450134
+
+
+n = 27, r = 1.79381
+(1.09836e-16, 1.79381) has gradient (5.9952e-15, -1.64231e-08)
+Odd area: 13.4145
+Odd area after rotation: 13.4126
+
+n = 27, r = 2.10256
+(1.28741e-16, 2.10256) has gradient (-8.88178e-16, 1.36067e-07)
+Odd area: 10.244
+Odd area after rotation: 10.2456
+STOP, the diff is 0.00157452
+
+
+n = 27, r = 2.87333
+(1.75935e-16, 2.87333) has gradient (-1.77636e-15, -4.12059e-07)
+Odd area: 23.2285
+Odd area after rotation: 23.2209
+
+n = 27, r = 3.87314
+(2.37154e-16, 3.87314) has gradient (-6.21725e-15, -3.33753e-08)
+Odd area: 15.9099
+Odd area after rotation: 15.9141
+STOP, the diff is 0.00419998
+
+
+n = 29, r = 1.01202
+(6.1966e-17, 1.01202) has gradient (-2.35922e-16, -4.64081e-06)
+Odd area: 6.42215
+Odd area after rotation: 6.42198
+
+n = 29, r = 1.0269
+(6.28773e-17, 1.0269) has gradient (3.8719e-15, 1.83775e-06)
+Odd area: 6.33567
+Odd area after rotation: 6.33567
+
+n = 29, r = 1.07203
+(6.5641e-17, 1.07203) has gradient (3.16414e-15, -9.55147e-08)
+Odd area: 7.00163
+Odd area after rotation: 7.00135
+
+n = 29, r = 1.11262
+(6.81261e-17, 1.11262) has gradient (1.38778e-15, 4.75691e-07)
+Odd area: 6.61468
+Odd area after rotation: 6.61495
+STOP, the diff is 0.000275135
+
+
+n = 29, r = 1.19941
+(7.34404e-17, 1.19941) has gradient (3.21965e-15, 1.16173e-06)
+Odd area: 8.1463
+Odd area after rotation: 8.14567
+
+n = 29, r = 1.27938
+(7.83367e-17, 1.27938) has gradient (-2.77556e-15, -3.38456e-07)
+Odd area: 7.2322
+Odd area after rotation: 7.23243
+STOP, the diff is 0.000225067
+
+
+n = 29, r = 1.43848
+(8.80783e-17, 1.43848) has gradient (1.04361e-14, 1.28908e-06)
+Odd area: 10.2323
+Odd area after rotation: 10.231
+
+n = 29, r = 1.59241
+(9.75037e-17, 1.59241) has gradient (-9.10383e-15, -1.62741e-07)
+Odd area: 8.43375
+Odd area after rotation: 8.43462
+STOP, the diff is 0.000874519
+
+
+n = 29, r = 1.91136
+(1.17033e-16, 1.91136) has gradient (-2.66454e-15, 8.73743e-08)
+Odd area: 14.3784
+Odd area after rotation: 14.3758
+
+n = 29, r = 2.24718
+(1.37596e-16, 2.24718) has gradient (-4.44089e-16, 2.46703e-07)
+Odd area: 10.8643
+Odd area after rotation: 10.866
+STOP, the diff is 0.00174999
+
+
+n = 29, r = 3.07745
+(1.88433e-16, 3.07745) has gradient (-2.13163e-14, 4.55152e-07)
+Odd area: 24.9463
+Odd area after rotation: 24.9373
+
+n = 31, r = 1.03057
+(6.31019e-17, 1.03057) has gradient (-4.996e-16, 1.73756e-06)
+Odd area: 6.60332
+Odd area after rotation: 6.6034
+STOP, the diff is 7.53403e-05
+
+
+n = 31, r = 1.05367
+(6.45167e-17, 1.05367) has gradient (-1.94289e-16, 1.31799e-06)
+Odd area: 6.41855
+Odd area after rotation: 6.4186
+STOP, the diff is 5.00679e-05
+
+
+n = 31, r = 1.10829
+(6.78608e-17, 1.10829) has gradient (4.38538e-15, 1.77241e-06)
+Odd area: 7.32223
+Odd area after rotation: 7.32183
+
+n = 31, r = 1.15729
+(7.08615e-17, 1.15729) has gradient (6.10623e-15, -1.06601e-06)
+Odd area: 6.78945
+Odd area after rotation: 6.78985
+STOP, the diff is 0.000400066
+
+
+n = 31, r = 1.25458
+(7.68181e-17, 1.25458) has gradient (7.21645e-15, -1.9442e-06)
+Odd area: 8.60658
+Odd area after rotation: 8.60563
+
+n = 31, r = 1.3446
+(8.23305e-17, 1.3446) has gradient (-9.99201e-15, -5.81313e-07)
+Odd area: 7.51165
+Odd area after rotation: 7.5123
+STOP, the diff is 0.000649929
+
+
+n = 31, r = 1.51802
+(9.29491e-17, 1.51802) has gradient (1.33227e-15, -7.05634e-07)
+Odd area: 10.8874
+Odd area after rotation: 10.8862
+
+n = 31, r = 1.68645
+(1.03262e-16, 1.68645) has gradient (-1.11022e-15, 2.16985e-07)
+Odd area: 8.8464
+Odd area after rotation: 8.84758
+STOP, the diff is 0.00117493
+
+
+n = 31, r = 2.02999
+(1.24297e-16, 2.02999) has gradient (4.44089e-16, -6.85475e-07)
+Odd area: 15.3438
+Odd area after rotation: 15.3404
+
+n = 31, r = 2.39256
+(1.46497e-16, 2.39256) has gradient (-1.77636e-15, 3.48035e-07)
+Odd area: 11.4926
+Odd area after rotation: 11.4947
+STOP, the diff is 0.00215054
+
+
+n = 31, r = 3.28214
+(2.00967e-16, 3.28214) has gradient (1.06581e-14, -6.09056e-08)
+Odd area: 26.6665
+Odd area after rotation: 26.6564
+
+n = 33, r = 1.02065
+(6.24946e-17, 1.02065) has gradient (2.49106e-15, 2.55479e-07)
+Odd area: 6.3231
+Odd area after rotation: 6.32293
+
+n = 33, r = 1.05481
+(6.45861e-17, 1.05481) has gradient (1.41553e-15, -1.76269e-06)
+Odd area: 6.82818
+Odd area after rotation: 6.82812
+
+n = 33, r = 1.0851
+(6.64411e-17, 1.0851) has gradient (1.88738e-15, -1.18874e-06)
+Odd area: 6.5348
+Odd area after rotation: 6.53505
+STOP, the diff is 0.000249863
+
+
+n = 33, r = 1.14813
+(7.03006e-17, 1.14813) has gradient (6.10623e-16, 1.02166e-06)
+Odd area: 7.66402
+Odd area after rotation: 7.66377
+
+n = 33, r = 1.20486
+(7.37737e-17, 1.20486) has gradient (-1.55431e-15, 1.23754e-07)
+Odd area: 6.98733
+Odd area after rotation: 6.98812
+STOP, the diff is 0.000799656
+
+
+n = 33, r = 1.31202
+(8.03354e-17, 1.31202) has gradient (-1.88738e-15, -1.6276e-07)
+Odd area: 9.07922
+Odd area after rotation: 9.07878
+
+n = 33, r = 1.41163
+(8.64345e-17, 1.41163) has gradient (-5.77316e-15, -4.89498e-07)
+Odd area: 7.80478
+Odd area after rotation: 7.80585
+STOP, the diff is 0.00107479
+
+
+n = 33, r = 1.59901
+(9.79076e-17, 1.59901) has gradient (6.66134e-16, 8.00418e-07)
+Odd area: 11.5415
+Odd area after rotation: 11.5398
+
+n = 33, r = 1.7816
+(1.09088e-16, 1.7816) has gradient (-8.88178e-16, -3.71955e-08)
+Odd area: 9.2717
+Odd area after rotation: 9.27285
+STOP, the diff is 0.00115013
+
+
+n = 33, r = 2.1495
+(1.31614e-16, 2.1495) has gradient (3.10862e-15, -3.4332e-07)
+Odd area: 16.3185
+Odd area after rotation: 16.3143
+
+n = 33, r = 2.53855
+(1.55436e-16, 2.53855) has gradient (-4.44089e-16, 1.39389e-07)
+Odd area: 12.1271
+Odd area after rotation: 12.1298
+STOP, the diff is 0.00260067
+
+
+n = 33, r = 3.48729
+(2.13528e-16, 3.48729) has gradient (1.77636e-14, 1.91756e-07)
+Odd area: 28.3835
+Odd area after rotation: 28.3719
+
+n = 35, r = 1.02383
+(6.26891e-17, 1.02383) has gradient (6.64746e-15, -4.24031e-07)
+Odd area: 6.5334
+Odd area after rotation: 6.53305
+
+n = 35, r = 1.04168
+(6.37822e-17, 1.04168) has gradient (-4.57967e-16, 2.23411e-06)
+Odd area: 6.39085
+Odd area after rotation: 6.39113
+STOP, the diff is 0.000275135
+
+
+n = 35, r = 1.08323
+(6.63262e-17, 1.08323) has gradient (-7.21645e-16, -5.99193e-07)
+Odd area: 7.07842
+Odd area after rotation: 7.07847
+STOP, the diff is 5.00679e-05
+
+
+n = 35, r = 1.11996
+(6.85757e-17, 1.11996) has gradient (-2.27596e-15, 1.04794e-06)
+Odd area: 6.671
+Odd area after rotation: 6.67018
+
+n = 35, r = 1.1907
+(7.29069e-17, 1.1907) has gradient (3.60822e-15, 2.11929e-06)
+Odd area: 8.01248
+Odd area after rotation: 8.01195
+
+n = 35, r = 1.25462
+(7.68207e-17, 1.25462) has gradient (-4.44089e-15, 3.81894e-07)
+Odd area: 7.2009
+Odd area after rotation: 7.20167
+STOP, the diff is 0.00077486
+
+
+n = 35, r = 1.37123
+(8.39611e-17, 1.37123) has gradient (-1.33227e-15, -5.28534e-07)
+Odd area: 9.56048
+Odd area after rotation: 9.5597
+
+n = 35, r = 1.48007
+(9.06249e-17, 1.48007) has gradient (-3.10862e-15, -2.60548e-07)
+Odd area: 8.11255
+Odd area after rotation: 8.11302
+STOP, the diff is 0.00047493
+
+
+n = 35, r = 1.68113
+(1.02936e-16, 1.68113) has gradient (4.44089e-15, 1.88562e-07)
+Odd area: 12.2015
+Odd area after rotation: 12.1998
+
+n = 35, r = 1.87762
+(1.14967e-16, 1.87762) has gradient (-1.9984e-15, 1.92533e-08)
+Odd area: 9.70197
+Odd area after rotation: 9.70317
+STOP, the diff is 0.00119972
+
+
+n = 35, r = 2.2697
+(1.38975e-16, 2.2697) has gradient (6.21725e-15, 3.35578e-07)
+Odd area: 17.288
+Odd area after rotation: 17.2829
+
+n = 35, r = 2.68503
+(1.64405e-16, 2.68503) has gradient (8.88178e-16, 2.57734e-07)
+Odd area: 12.7664
+Odd area after rotation: 12.769
+STOP, the diff is 0.00262451
+
+
+n = 35, r = 3.69282
+(2.26113e-16, 3.69282) has gradient (1.06581e-14, -1.1857e-07)
+Odd area: 30.1043
+Odd area after rotation: 30.0907
+
+n = 37, r = 1.01636
+(6.22319e-17, 1.01636) has gradient (-3.59435e-15, -4.5559e-07)
+Odd area: 6.31575
+Odd area after rotation: 6.3159
+STOP, the diff is 0.000149727
+
+
+n = 37, r = 1.04315
+(6.38726e-17, 1.04315) has gradient (-2.66454e-15, 1.78042e-06)
+Odd area: 6.71128
+Odd area after rotation: 6.711
+
+n = 37, r = 1.0667
+(6.53143e-17, 1.0667) has gradient (3.88578e-16, -9.13228e-07)
+Odd area: 6.48155
+Odd area after rotation: 6.48193
+STOP, the diff is 0.000374794
+
+
+n = 37, r = 1.1148
+(6.82598e-17, 1.1148) has gradient (-2.05391e-15, 2.96619e-07)
+Odd area: 7.35178
+Odd area after rotation: 7.35115
+
+n = 37, r = 1.15743
+(7.08701e-17, 1.15743) has gradient (-3.44169e-15, -1.44219e-06)
+Odd area: 6.82855
+Odd area after rotation: 6.8286
+STOP, the diff is 5.00679e-05
+
+
+n = 37, r = 1.23537
+(7.56422e-17, 1.23537) has gradient (9.99201e-16, -1.07049e-06)
+Odd area: 8.38682
+Odd area after rotation: 8.3862
+
+n = 37, r = 1.30611
+(7.99732e-17, 1.30611) has gradient (-4.88498e-15, -6.03583e-07)
+Odd area: 7.42562
+Odd area after rotation: 7.4254
+
+n = 37, r = 1.43185
+(8.76729e-17, 1.43185) has gradient (3.33067e-16, -1.36022e-06)
+Odd area: 10.049
+Odd area after rotation: 10.0478
+
+n = 37, r = 1.54963
+(9.48846e-17, 1.54963) has gradient (-8.88178e-16, -2.8242e-07)
+Odd area: 8.4281
+Odd area after rotation: 8.42848
+STOP, the diff is 0.000375748
+
+
+n = 37, r = 1.76418
+(1.08021e-16, 1.76418) has gradient (4.44089e-16, -4.85958e-07)
+Odd area: 12.8629
+Odd area after rotation: 12.8604
+
+n = 37, r = 1.97436
+(1.20891e-16, 1.97436) has gradient (-9.32587e-15, -3.04904e-07)
+Odd area: 10.1411
+Odd area after rotation: 10.1426
+STOP, the diff is 0.00145054
+
+
+n = 37, r = 2.39049
+(1.46371e-16, 2.39049) has gradient (1.33227e-15, 4.11444e-07)
+Odd area: 18.2609
+Odd area after rotation: 18.2558
+
+n = 37, r = 2.83192
+(1.73399e-16, 2.83192) has gradient (-5.32907e-15, 9.16191e-08)
+Odd area: 13.4171
+Odd area after rotation: 13.42
+STOP, the diff is 0.00290012
+
+
+n = 37, r = 3.89867
+(2.38717e-16, 3.89867) has gradient (-2.13163e-14, 8.46973e-09)
+Odd area: 31.8263
+Odd area after rotation: 31.8112
+
+n = 39, r = 1.0191
+(6.23999e-17, 1.0191) has gradient (-1.88738e-15, -1.35515e-06)
+Odd area: 6.48667
+Odd area after rotation: 6.48667
+
+n = 39, r = 1.03333
+(6.32709e-17, 1.03333) has gradient (-6.80012e-16, 1.36674e-06)
+Odd area: 6.36632
+Odd area after rotation: 6.36643
+STOP, the diff is 0.000100136
+
+
+n = 39, r = 1.06608
+(6.52763e-17, 1.06608) has gradient (2.22045e-15, 4.05955e-06)
+Odd area: 6.91485
+Odd area after rotation: 6.91453
+
+n = 39, r = 1.09475
+(6.70318e-17, 1.09475) has gradient (-1.33227e-15, 6.03719e-08)
+Odd area: 6.59113
+Odd area after rotation: 6.59123
+STOP, the diff is 0.000100136
+
+
+n = 39, r = 1.14883
+(7.03431e-17, 1.14883) has gradient (-5.82867e-15, 1.08803e-06)
+Odd area: 7.6355
+Odd area after rotation: 7.6351
+
+n = 39, r = 1.19694
+(7.32892e-17, 1.19694) has gradient (-4.60743e-15, 1.25648e-06)
+Odd area: 6.99557
+Odd area after rotation: 6.99665
+STOP, the diff is 0.00107527
+
+
+n = 39, r = 1.28171
+(7.84798e-17, 1.28171) has gradient (3.33067e-15, -4.14292e-07)
+Odd area: 8.76128
+Odd area after rotation: 8.76068
+
+n = 39, r = 1.35897
+(8.32101e-17, 1.35897) has gradient (-9.99201e-16, -6.5813e-07)
+Odd area: 7.66465
+Odd area after rotation: 7.6653
+STOP, the diff is 0.000649929
+
+
+n = 39, r = 1.49361
+(9.14544e-17, 1.49361) has gradient (7.54952e-15, -4.38613e-07)
+Odd area: 10.5406
+Odd area after rotation: 10.5389
+
+n = 39, r = 1.62012
+(9.92008e-17, 1.62012) has gradient (-7.99361e-15, 5.45156e-08)
+Odd area: 8.74757
+Odd area after rotation: 8.74858
+STOP, the diff is 0.0010004
+
+
+n = 39, r = 1.84799
+(1.13153e-16, 1.84799) has gradient (2.22045e-16, 4.65476e-07)
+Odd area: 13.5319
+Odd area after rotation: 13.529
+
+n = 39, r = 2.07169
+(1.2685e-16, 2.07169) has gradient (-3.10862e-15, -3.26142e-07)
+Odd area: 10.5919
+Odd area after rotation: 10.5934
+STOP, the diff is 0.00147533
+
+
+n = 39, r = 2.51176
+(1.53796e-16, 2.51176) has gradient (-4.44089e-16, -2.981e-07)
+Odd area: 19.2348
+Odd area after rotation: 19.2292
+
+n = 39, r = 2.97916
+(1.82415e-16, 2.97916) has gradient (-5.32907e-15, -1.71849e-07)
+Odd area: 14.0652
+Odd area after rotation: 14.069
+STOP, the diff is 0.0037756
+
+
+We have found 52out of 111

@@ -1,0 +1,28 @@
+Shifting by adding {0, 0.005} 
+
+n = 29, r = 1.27938
+(7.83367e-17, 1.27938) has gradient (-2.22045e-15, 9.59443e-09)
+Odd area: 7.23389
+Odd area after shift: 7.23357
+
+n = 29, r = 1.59241
+(9.75037e-17, 1.59241) has gradient (-4.88498e-15, 4.16269e-09)
+Odd area: 8.43368
+Odd area after shift: 8.43322
+
+n = 37, r = 1.15743
+(7.08701e-17, 1.15743) has gradient (-1.11022e-16, 8.01856e-09)
+Odd area: 6.82746
+Odd area after shift: 6.82719
+
+n = 39, r = 1.03333
+(6.32709e-17, 1.03333) has gradient (-4.06619e-15, 2.42316e-09)
+Odd area: 6.36931
+Odd area after shift: 6.36917
+
+n = 39, r = 1.19694
+(7.32892e-17, 1.19694) has gradient (-1.72085e-15, 4.49565e-09)
+Odd area: 6.99747
+Odd area after shift: 6.99731
+
+We have found 0out of 5
